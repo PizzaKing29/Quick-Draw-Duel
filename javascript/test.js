@@ -1,2 +1,6 @@
 "use strict";
-console.log("hello");
+const message = document.getElementById('message');
+const draw = document.getElementById('draw');
+const start = document.getElementById('start');
+const humanScoreElement = document.getElementById('humanScore');
+const aiScoreElement = document.getElementById('aiScore');
